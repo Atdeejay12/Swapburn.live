@@ -13,7 +13,7 @@ So far it has been an amazing journey during the last 30 days of development (ye
 
 **Let's recap first:**
 
-- Feature allowing access to OCTO holders only
+- Feature allowing access to SWAP holders only
 - History tab to display all of your wallet's transactions
 - TokenSet integration with investment opportunities (by end of month)
 - Integrating our Snapshot.Page governance into UI (by end of month)
@@ -25,13 +25,13 @@ So far it has been an amazing journey during the last 30 days of development (ye
 - Dashboard to track your portfolio
 - And lots of other small things...
 
-The so called "Aquafarm" and our original release of a DEX (some octonaut degens will remember it from bonding curve sale) served as a playground to explore ways to achieve our long term vision. 
+The so called "SWAPBURN" and our original release of a DEX (some SWAtonaut degens will remember it from bonding curve sale) served as a playground to explore ways to achieve our long term vision. 
 
 ### But, what is the long term vision?
 
-So, young padawan, hold onto your tenties, it's time we unveil our long term vision (or in terms of how octo devs work...next few months 😉). 
+So, young padawan, hold onto your SWAMIES, it's time we unveil our long term vision (or in terms of how octo devs work...next few months 😉). 
 
-As you know, our mission is to help you wrap YOUR tentacles around a sea of gains, with a little help from OUR <s>oracles</s> Tentacles.
+As you know, our mission is to help you wrap YOUR tentacles around a sea of gains, with a little help from OUR <s>oracles</s> SWAPBURN.
 
 By combining our exploration phase with our vision, we are building a DeFi platform with the user experience (UX) of one of the leading centralized exchanges (CEX), and creating a DEX that allows you to trade over liquidity pools from Uniswap, Kyber, Bancor, Oasis and 0x. 
 
@@ -43,9 +43,9 @@ So onboarding newcomers to DeFi is seamless, we will have a fiat on/off ramp in 
 
 We will be leveraging our oracle aggregation research, to guarantee our users always receive the most accurate rates and market prices. This is the perfect initial application of our Tentacles project for incentivised oracle aggregators kept honest by community. 
 
-### How about utility/value for $OCTO holders?
+### How about utility/value for $SWAPBURN holders?
 
-Because our community is everything to us, OCTO holders:
+Because our community is everything to us, SWAPBURN holders:
  
 - Will unlock exclusive advanced features (as tested with temporary full Aquafarm restriction) 
 - Will be able to claim their respective share of trading fees on the platform with ALL trading fees/revenue in distributed in ETH
@@ -65,9 +65,9 @@ That's why we are dedicated to actually building real value for our holders.
 #### Q4 \#NoCexNovember (Main Features)
 
 - First release of our frontend mockups for the upcoming  interface 
-- Aquafarm Update with TokenSets, Snapshot.Page aggregation, oracle beta (end of OCTOBRRR)
+- swapstake Update with TokenSets, Snapshot.Page aggregation, oracle beta (end of OCTOBRRR)
 - Lending and Borrowing aggregation for Compound and Aave
-- Fundamental development for final app.octo.fi platform release 
+- Fundamental development for final stake.swapburn.live platform release 
 
 #### Q4 \#DEXember (Main Features)
 
@@ -82,7 +82,7 @@ with completed design (Basic and Advanced Trading)
 
 #### Q1 2021 January (Main Features)
 
-- Trading fee sharing for OCTO holders
+- Trading fee sharing for Swap holders
 - Drag and drop DeFi trading strategy builder (inspired by Furucombo)
 - Adding and exploration of bridges, gateways, and cross-chain swaps
 (BTC / EOS / TRON)
@@ -108,12 +108,4 @@ Have you got what it takes for the #NoCexNovember challenge?
 
 Be ready to make waves.
 
-Kind regards, 
-
-Dr. Octavius
-
-*PS: Octomask is not postponed we are still working on it, but will keep it as more of a side project, complementary to our core focus.* 
-
-*PPS: Those who take the time to understand this post benefit first, then in the coming days we will break it down into bitesize chunks with concise graphics and social media content.*
-
-<a href="https://tg.octo.fi" class="button--fill">Discuss on Telegram</a>
+<a href="https://tg.swapburn.live" class="button--fill">Discuss on Telegram</a>
