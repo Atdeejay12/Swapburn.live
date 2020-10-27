@@ -49,7 +49,6 @@ featured_image: /images/social.jpg
 				{% endif %}
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% if project.external_url %}
-					{% for image in project.gallery_images %}
 					{% endfor %}
 					{% else %}
 					{% for image in project.gallery_images %}
