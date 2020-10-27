@@ -1,5 +1,5 @@
 ---
-title: Infrastructure for Decentralized Finance with Tentacles
+title: Infrastructure for Decentralized Finance with SWAPBURN
 date: 2020-08-16 00:00:00
 description: OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure.
 featured_image: '/images/1.jpg'
@@ -29,19 +29,19 @@ For those who’ve been in the crypto space long enough, it’s widely accepted 
 
 There should be no single points of failure when we are pioneering decentralized technologies and intermediary risks should be mitigated however possible in order to legitimize DeFi. Centralized entities require trust, are easily corrupted, and ensuring users can better spread risks associated with early adoption should be a core focus of the user experience. 
 
-## Introducing OctoFi
+## Introducing SWAPBURN
 
-OctoFi is a next generation open source platform providing decentralized finance <s>oracles</s> tentacles for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
+Swapburn is a next generation open source platform providing decentralized finance <s>oracles</s> Swap-burn mechanics for DeFi. We believe that the term ‘oracle’ itself implies unreasonable dependence on a single source of truth. In most cases, an oracle is viewed as singular, and while we appreciate their importance, we foresee the existence of many, all of which are auditable against one another. 
 
 Within the decentralized finance world, individuals shall act as proxies to an aggregation of oracular data sources, in order to optimize their own participation and interaction with an ever expanding landscape of protocols. 
 
-OctoFi users will benefit from an ‘octomized’ structure whereby 'tentacles' connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
+Swap users will benefit from an ‘swaptomized’ structure whereby 'burning' spreads and connect them with various applications, while leveraging truly open and transparent infrastructure. Stakeholders will play an important role in data validation while pioneering a new frontier of community governance for long term, sustainable adaptability.
 
-## Octoken - where it all begins
+## swap token - where it all begins
 
-OctoFi infrastructure is designed for frictionless oversight by incentivised stakeholders who share in its best interests. Data sourcing, provisioning, verification, quality assurance, storage, and consumption, all utilise the such tokenomics for effective governance. 
+Swapburn infrastructure is designed for frictionless oversight by incentivised stakeholders who share in its best interests. Data sourcing, provisioning, verification, quality assurance, storage, and consumption, all utilise the such tokenomics for effective governance. 
 
-**OCTO governance tokens are essential to:**
+**Swap governance tokens are essential to:**
 
 * Participating in voting to settle governance decisions
 * Remuneration for sourcing and provisioning data collection
@@ -49,4 +49,4 @@ OctoFi infrastructure is designed for frictionless oversight by incentivised sta
 * Funding development resources and platform support
 * Gaining access to live data feeds and API marketplace
 
-Our flagship project, [Octoken](/projects/token), includes bonding curve distribution and decentralized exchange allocation of the OCTO governance token commencing 14 September 2020.
+Our flagship project, [Swapburn](/projects/token), includes bonding curve distribution and decentralized exchange allocation of the swapburn governance token commencing oct 2020.
