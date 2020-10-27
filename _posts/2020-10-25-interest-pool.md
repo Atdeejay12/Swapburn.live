@@ -1,6 +1,6 @@
 ---
-title: Interest Pool for Earning Yield with Octokens
-date: 2020-08-25 00:00:00
+title: Interest Pool for Earning Yield with swapburn
+date: 2020-10-25 00:00:00
 description: Both private and public sale participants will be able to assign tokens to our interest yielding smart contract, to earn additional OCTO for 3, 6, and 12 month runtimes. 
 featured_image: '/images/4.jpg'
 ---
