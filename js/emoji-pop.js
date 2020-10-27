@@ -6,7 +6,7 @@ class Fountain {
     this.height = document.documentElement.clientHeight;
     this.sizes = [15, 20, 25, 35, 45];
     this.variants = [
-      '🐙'
+      ' 🔥'
     ];
     this.addHandlers();
     this.loop();
