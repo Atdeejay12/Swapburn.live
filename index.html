@@ -42,7 +42,6 @@ featured_image: /images/social.jpg
 
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
-			<article class="project__preview">
 				{% if project.external_url %}
 				<h3 class="project__title"><a href="{{ project.external_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
 				{% else %}
